@@ -20,7 +20,7 @@ This project aims to scrape data about Pondok (Islamic boarding schools) in the 
 1. **Clone the Repository**:
 
     ```Bash
-    git clone <your_repository_url>
+    git clone https://github.com/Aidirrr/web-scraper-pondok-data
     ```
 
 2. **Install Dependencies**:
